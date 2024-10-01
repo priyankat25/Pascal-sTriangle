@@ -1,4 +1,4 @@
-Pascal Triangle
+# Pascal Triangle
 
 Input:
 Enter the number of rows for Pascal's Triangle: 3
